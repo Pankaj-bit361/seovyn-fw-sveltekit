@@ -1,0 +1,30 @@
+{
+  "name": "Pawprint Dog Training",
+  "tagline": "Positive dog training classes and private lessons in Denver",
+  "home": [
+    "Pawprint teaches puppy classes, basic obedience and leash manners in Denver, using reward-based methods only.",
+    "Classes are small, six dogs at most, and we also offer private lessons at your home for dogs who find groups stressful."
+  ],
+  "about": [
+    "Our trainers are certified professional dog trainers who believe training should be fun for dogs and people.",
+    "We never use prong collars, shock collars or punishment."
+  ],
+  "posts": [
+    {
+      "slug": "stop-puppy-biting",
+      "title": "How to stop a puppy from biting",
+      "description": "Why puppies bite and what actually helps.",
+      "date": "2026-08-08",
+      "body": "Puppies explore the world with their mouths. Biting is normal, but they need to learn how gentle to be.\n\n## Redirect to a toy\n\nWhen teeth touch skin, offer a chew toy instead and praise when they take it.\n\n## Calm, not rough\n\nRough play winds puppies up. Short, calm sessions work better.\n\n## Naps matter\n\nOvertired puppies bite more. Most need 18 hours of sleep a day."
+    },
+    {
+      "slug": "loose-leash-walking-basics",
+      "title": "Loose-leash walking: the basics",
+      "description": "Teach your dog to walk without pulling.",
+      "date": "2026-09-14",
+      "body": "Pulling works for dogs because it gets them where they want to go. Loose-leash walking changes that.\n\n## Stop when the leash goes tight\n\nStand still until there's slack, then carry on.\n\n## Reward the right spot\n\nGive a treat when your dog is next to your leg.\n\n## Short sessions\n\nPractice five minutes at a time, in a quiet place first."
+    }
+  ],
+  "url": "https://pankaj-bit361.github.io/seovyn-fw-sveltekit",
+  "base": "/seovyn-fw-sveltekit"
+}
